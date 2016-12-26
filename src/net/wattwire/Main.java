@@ -14,7 +14,7 @@ public class Main {
         String movieTitle, rating;
         int yearMade, runMinutes;
 
-        System.out.println("\n\n\t\t*** Welcome to the Movies! ***\n\n");
+        System.out.println("\n\n\t\t*** Welcome to the Movies Bitches! ***\n\n");
 
         System.out.println("Please enter info about your favorite movie:\n");
 
